@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/testpyncpp.dir/testpyncpp.cpp.o -o testpyncpp  /usr/lib/x86_64-linux-gnu/libpython3.8.so /usr/lib/x86_64-linux-gnu/libpython3.8.so 
